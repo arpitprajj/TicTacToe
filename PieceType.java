@@ -1,3 +1,3 @@
-enum PieceType{
-    X,O
+public enum PieceType{
+    X,O;
 }
